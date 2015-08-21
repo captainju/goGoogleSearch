@@ -1,3 +1,6 @@
+/*
+Google search from go
+*/
 package googlesearch
 import (
 	"net/http/cookiejar"
